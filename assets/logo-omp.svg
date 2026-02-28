@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Logo OMP</title>
+  <desc id="desc">Emblema circular de la Organización Mundial Pokémon</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b3f95" />
+      <stop offset="1" stop-color="#0b2d6b" />
+    </linearGradient>
+  </defs>
+  <circle cx="256" cy="256" r="248" fill="url(#bg)" stroke="#f3c452" stroke-width="8" />
+  <circle cx="256" cy="256" r="182" fill="#1f6ed4" stroke="#f3c452" stroke-width="6" opacity="0.95" />
+  <g transform="translate(256 256)">
+    <circle r="96" fill="#fff" stroke="#0b2d6b" stroke-width="8" />
+    <path d="M-96 0h192a96 96 0 0 0-192 0z" fill="#ea1d2c" />
+    <line x1="-96" y1="0" x2="96" y2="0" stroke="#0b2d6b" stroke-width="10" />
+    <circle r="26" fill="#fff" stroke="#0b2d6b" stroke-width="8" />
+    <circle r="10" fill="#f3c452" />
+  </g>
+  <text x="256" y="110" text-anchor="middle" fill="#fff" font-size="42" font-family="Inter, Arial, sans-serif" font-weight="700">ORGANIZACIÓN MUNDIAL</text>
+  <text x="256" y="430" text-anchor="middle" fill="#fff" font-size="56" font-family="Inter, Arial, sans-serif" font-weight="800">POKÉMON</text>
+  <text x="256" y="470" text-anchor="middle" fill="#fff" font-size="34" font-family="Inter, Arial, sans-serif" font-weight="700">OMP</text>
+</svg>
